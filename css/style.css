@@ -1,0 +1,35 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: rgb(241, 241, 241);
+}
+
+img{
+    margin: 10px 0px 10px 10px;
+    background-color: white;
+    vertical-align: middle;
+}
+
+.logo-writing{
+    vertical-align: middle;
+    font-size: 40px;
+    font-family: sans-serif;
+    font-weight: 700;
+}
+
+.header-background{
+    height: 80px;
+    background-color: white;
+}
+
+.container{
+    max-width: 991px;
+    margin: 0 auto;
+    background-color: aliceblue;
+}
+
+.square-main
